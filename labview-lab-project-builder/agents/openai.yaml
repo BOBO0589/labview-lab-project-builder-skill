@@ -1,0 +1,4 @@
+interface:
+  display_name: "LabVIEW Lab Project Builder"
+  short_description: "Build LabVIEW lab packages"
+  default_prompt: "Use this skill to create or repair a LabVIEW lab/coursework package with .lvproj files, real .vi references, reports, generated results, validation checks, and a zip archive."
